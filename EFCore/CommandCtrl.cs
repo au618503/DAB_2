@@ -193,7 +193,7 @@ public class CommandCtrl
         Reservation r1 = new Reservation()
         {
             Start = new DateTime(2022, 2, 7, 12, 00, 00),
-            End = new DateTime(2022, 2, 7, 14, 00, 00),
+            End = new DateTime(2022, 2, 7, 14, 30, 00),
             User = u1,
             Facility = f1
         };
